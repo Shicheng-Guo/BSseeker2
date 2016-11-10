@@ -8,6 +8,7 @@ BS-Seeker2
 BS Seeker 2 is a seamless and versatile pipeline for accurately and fast mapping the bisulfite-treated short reads.
 
 BS Seeker 2 is dependent on python 2.xx (Python-2.7.12), therefore, don't install python 3.xx to run BS Seeker 2
+
 BS Seeker 3 is dependent on python 3.xx (Python 3.5.2)
 
 
